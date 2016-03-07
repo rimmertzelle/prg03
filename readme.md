@@ -13,3 +13,6 @@ De startoefeningen voor week 2 staan in deze map. In de les wordt dit verder toe
 - Oefening 2 : DOM elementen toevoegen
 - Oefening 3 : Formulier uitlezen
 - Oefening 4 : Event handlers
+
+## Week 4
+De basisbestanden voor de PHP en JSON oefening 'football'

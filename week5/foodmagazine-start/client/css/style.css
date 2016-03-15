@@ -1,0 +1,12 @@
+#dish-gallery,
+#dish-details {
+    overflow: auto;
+}
+
+.dish {
+    float: left;
+}
+
+.dish img {
+    width: 200px;
+}

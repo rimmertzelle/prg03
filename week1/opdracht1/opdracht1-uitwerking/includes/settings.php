@@ -7,5 +7,5 @@ define("DB_PASS", "");
 define("DB_DATABASE", "dishes-for-students");
 
 //Flickr
-define("FLICKR_KEY", "YOUR_KEY");
-define("FLICKR_SECRET", "YOUR_SECRET");
+define("FLICKR_KEY", "0828fe45385d7f84c731f3f6a74b100e");
+define("FLICKR_SECRET", "581b8aded63ea42e");

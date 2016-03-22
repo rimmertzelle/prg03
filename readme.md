@@ -16,3 +16,9 @@ De startoefeningen voor week 2 staan in deze map. In de les wordt dit verder toe
 
 ## Week 4
 De basisbestanden voor de PHP en JSON oefening 'football'
+
+## Week 5
+JSON ophalen met AJAX
+
+## Week 6
+Star Wars API oefening. DOM elementen maken op basis van JSON
